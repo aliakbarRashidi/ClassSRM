@@ -57,7 +57,7 @@ namespace ClassSRM.Forms
                     connect.Open();
                     //Execute
                     SqlCommand command;
-                    command = new SqlCommand(@"backup database ClassSRM to disk ='" + strFileName + "' with init,stats=10", connect);
+                    command = new SqlCommand(@"backup database ClassSRM to disk ='" + strFileName + "'", connect);
                     command.ExecuteNonQuery();
                     connect.Close();
                     splashScreenManager1.CloseWaitForm();
