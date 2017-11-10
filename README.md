@@ -1,5 +1,5 @@
-[![GitHub version](https://badge.fury.io/gh/ghost1372%2FClassSRM.svg)](https://badge.fury.io/gh/ghost1372%2FClassSRM) | 
 [![Total downloads](https://img.shields.io/github/downloads/ghost1372/ClassSRM/total.svg)](https://github.com/ghost1372/ClassSRM/releases)
+[![GitHub version](https://badge.fury.io/gh/ghost1372%2FClassSRM.svg)](https://badge.fury.io/gh/ghost1372%2FClassSRM)
 # ClassSRM
  <div dir="rtl">
 این نرم افزار که به فارسی مدیریت روابط کلاس و دانش آموز و یا مدیریت کلاس و دانش آموز خوانده می شود، یک نرم افزار مدیریت مدرسه هوشمند قدرتمند و منسجم جهت هوشمندسازی کامل کلاس می باشد که تقریبا تمامی جنبه های مربوط به پیشرفت و ردیابی دانش آموز  را به صورت یکجا گرد آورده و به بهترین و ساده ترین شکل ممکن در اختیار معلمان عزیز مدارس قرار داده است. معلمان عزیز توسط این نرم افزار کاملا رایگان می توانند اطلاعات دانش آموزان خود را ثبت نموده تا بتوانند وضعیت پیشرفت و پسرفت آنها را بصورت آنی و لحظه ای مشاهده نموده، وضعیت درسی هر دانش آموز را نسبت به خود (باتوجه به ماه قبل) ارزیابی کرده تا بتوانند برای آنها برنامه ریزی مناسب را انجام داد.
@@ -7,12 +7,13 @@
 
 # <div dir="rtl"> تصاویر</div>
 
-![Optional Text](Screen.png)
+![Optional Text](Scren.png)
 ![Optional Text](Screen1.png)
 ![Optional Text](Screen2.png)
 ![Optional Text](Screen3.png)
 ![Optional Text](Screen4.png)
-
+![Optional Text](Screen5.png)
+![Optional Text](Screen6.png)
 ## <div dir="rtl">ویژگی ها</div>
 <div dir="rtl">
 <br>قابلیت ایجاد سال تحصیلی و مدرسه های متعدد
@@ -41,7 +42,7 @@
 ## <div dir="rtl">دانلود</div>
 
 <div dir="rtl">
-برنامه همچنان در حالت بتا قرار دارد و هنوز نسخه نهایی ریلیز نشده است،با این حال اگر مایل بودید می توانید ریلیزهای بتا را از اینجا دریافت کنید
+ریلیزها را از اینجا دریافت کنید
 </div>
  [via the releases tab](https://github.com/ghost1372/ClassSRM/releases).<br>
 
